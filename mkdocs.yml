@@ -4,3 +4,12 @@ theme:
   palette:
     scheme: slate
     primary: black
+
+extra:
+  social:
+  - icon: fontawesome/brands/github
+    link: https://github.com/yaya-sy
+  - icon: fontawesome/brands/twitter
+    link: https://twitter.com/seygalare
+  - icon: fontawesome/brands/linkedin
+    link: https://linkedin.com/in/yaya-sy-a8473023a/

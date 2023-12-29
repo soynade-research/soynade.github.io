@@ -3,18 +3,18 @@ theme:
   palette: 
     # Palette toggle for light mode
     - scheme: default
-    toggle:
-      icon: material/toggle-switch
-      name: Dark
-    primary: black
-    accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Dark
+      primary: black
+      accent: indigo
     # Palette toggle for dark mode
     - scheme: slate
-    toggle:
-      icon: material/toggle-switch-off-outline
-      name: Light
-    primary: black
-    accent: indigo
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Light
+      primary: black
+      accent: indigo
   features:
     # - navigation.instant # some features may not work properly with XHR
     - navigation.tracking # the URL changes with the active anchor

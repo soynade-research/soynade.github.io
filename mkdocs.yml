@@ -1,3 +1,43 @@
-# Research
+site_name: Yaya Sy
 
-Coming soon...
+nav:
+  - Home: index.md
+  - Products: products.md
+  - Research: research.md
+  - Blogpost: blogpost.md
+
+theme:
+  name: material
+  palette: 
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+      primary: black
+
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
+      primary: black
+  
+  features:
+    - navigation.instant
+    - navigation.tracking
+
+plugins: []  # This disables the search plugin
+
+extra:
+  social:
+  - icon: fontawesome/brands/github
+    link: https://github.com/yaya-sy
+  - icon: fontawesome/brands/twitter
+    link: https://twitter.com/seygalare
+  - icon: fontawesome/brands/linkedin
+    link: https://linkedin.com/in/yaya-sy-a8473023a/
+
+# Custom CSS to hide the logo icon
+extra_css:
+  - stylesheets/extra.css

@@ -20,6 +20,8 @@ theme:
     - navigation.instant
     - navigation.tracking
 
+plugins: []  # This disables the search plugin
+
 extra:
   social:
   - icon: fontawesome/brands/github
@@ -28,3 +30,7 @@ extra:
     link: https://twitter.com/seygalare
   - icon: fontawesome/brands/linkedin
     link: https://linkedin.com/in/yaya-sy-a8473023a/
+
+# Custom CSS to hide the logo icon
+extra_css:
+  - stylesheets/extra.css

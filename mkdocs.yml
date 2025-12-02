@@ -15,6 +15,10 @@ theme:
         icon: material/toggle-switch-off-outline
         name: Switch to light mode
       primary: black
+  
+  features:
+    - navigation.instant
+    - navigation.tracking
 
 extra:
   social:

@@ -1,110 +1,68 @@
-<div class="hero-section" markdown="1">
+<div class="apple-hero" markdown="1">
 
-# Building Intelligence<br/>That Works
+# Intelligence<br/>Reimagined
 
 We create AI systems that solve real problems. From breakthrough research to production-ready solutions, we're advancing what's possible with artificial intelligence.
 
-<div class="hero-buttons" markdown="1">
-[Get in Touch](#contact){ .md-button .md-button--primary }
-[Our Work](research.md){ .md-button }
-</div>
+[Explore Our Work](#our-work){ .md-button .md-button--primary }
 
 </div>
 
-<div class="section-divider"></div>
+<div class="product-showcase" markdown="1">
 
-<div class="content-section" markdown="1">
-
-## What We Build
-
-<div class="services-grid" markdown="1">
-
-<div class="service-card" markdown="1">
-### AI Research
-We explore the frontiers of machine learning, pushing the boundaries of what AI can do. Our research combines academic rigor with practical applications.
+<div class="product-visual">
+![AI Product Illustration](https://via.placeholder.com/800x500/667eea/ffffff?text=Your+Product+Here)
 </div>
 
-<div class="service-card" markdown="1">
-### Products & Solutions
-Production-grade AI systems designed for scale. We build tools that integrate seamlessly and deliver measurable business impact.
-</div>
+## Our Flagship Solution
 
-<div class="service-card" markdown="1">
-### Strategic Advisory
-Expert guidance on AI strategy and implementation. We help organizations navigate the AI landscape and make informed decisions.
-</div>
+Powerful AI technology designed for real-world applications. From research to production, experience the future today.
 
 </div>
 
+<div class="features-section" markdown="1">
+
+## What We Build {#our-work}
+
+<div class="feature-grid" markdown="1">
+
+<div class="feature-item" markdown="1">
+### 🧠 Advanced AI
+State-of-the-art machine learning models that deliver unmatched performance and accuracy.
 </div>
 
-<div class="section-divider"></div>
-
-<div class="content-section dark-section" markdown="1">
-
-## Our Philosophy
-
-We believe AI should be **powerful yet practical**, **innovative yet reliable**. Every project we take on is guided by three principles:
-
-**Scientific Excellence** — Grounded in rigorous research and proven methodologies
-
-**Real-World Impact** — Built for production environments, not just research labs
-
-**Responsible AI** — Designed with ethics, transparency, and safety at the core
-
+<div class="feature-item" markdown="1">
+### ⚡ Lightning Fast
+Optimized for speed and efficiency, processing data in real-time at scale.
 </div>
 
-<div class="section-divider"></div>
-
-<div class="content-section" markdown="1">
-
-## Why Soynade
-
-<div class="stats-grid" markdown="1">
-
-<div class="stat-item" markdown="1">
-**Research-Driven**
-
-Our team publishes in top-tier conferences and contributes to the advancement of AI.
-</div>
-
-<div class="stat-item" markdown="1">
-**Production-Ready**
-
-We build systems that scale from prototype to enterprise deployment.
-</div>
-
-<div class="stat-item" markdown="1">
-**Full-Stack AI**
-
-From data to deployment, we handle every stage of the AI lifecycle.
+<div class="feature-item" markdown="1">
+### 🔒 Secure & Reliable
+Enterprise-grade security with 99.9% uptime. Your data is always protected.
 </div>
 
 </div>
 
 </div>
 
-<div class="section-divider"></div>
+<div class="approach-section" markdown="1">
 
-<div class="content-section cta-section" markdown="1">
+## Our Approach
 
-## Ready to Transform Your Business?
+**Research-Driven Innovation** — Our team publishes in top-tier conferences and contributes to advancing AI.
 
-Let's discuss how AI can solve your most challenging problems.
+**Production-Ready Systems** — We build technology that scales from prototype to enterprise deployment.
 
-[Start a Conversation](#contact){ .md-button .md-button--primary .md-button--large }
+**Ethical & Transparent** — We prioritize fairness, safety, and accountability in everything we create.
 
 </div>
 
-<div class="section-divider"></div>
+<div class="cta-section" markdown="1">
 
-<div class="content-section contact-section" markdown="1">
+## Ready to Get Started?
 
-## Get in Touch {#contact}
+Let's build something amazing together.
 
-**Email:** contact@soynade.com  
-**Location:** Paris, France
-
-Connect with us on [GitHub](https://github.com/yaya-sy), [Twitter](https://twitter.com/seygalare), or [LinkedIn](https://linkedin.com/in/yaya-sy-a8473023a/)
+[Get in Touch](mailto:contact@soynade.com){ .md-button .md-button--primary .large-btn }
 
 </div>
